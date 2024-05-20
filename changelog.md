@@ -1,1 +1,1 @@
-* Fix NullPointerException caused by the previous fix. This should fix the issue for good.
+* Fix upgraded Warden statues not functioning
